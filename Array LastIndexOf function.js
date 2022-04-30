@@ -10,12 +10,5 @@ for(i=arr.length-1; i>=0; i--){
      break;
  }
 }
-
 }
-
 array(["Dodo", 'Tiger', 'Penguin', "Penguin","Dodo"],"Penguin" );
-
-
-let aar = ["Dodo", 'Tiger', 'Penguin', "Penguin","Dodo"]
-
-console.log(aar[-2]);
